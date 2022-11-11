@@ -1,0 +1,224 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = APIWithWeb
+build_property.RootNamespace = APIWithWeb
+build_property.ProjectDir = E:\Hoc\CSHARP\DEMO1\APIWithWeb\APIWithWeb\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Hoc\CSHARP\DEMO1\APIWithWeb\APIWithWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Anhmonans/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5obW9uYW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Anhmonans/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5obW9uYW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Anhmonans/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5obW9uYW5zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Anhmonans/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5obW9uYW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Anhmonans/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5obW9uYW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Binhluans/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmluaGx1YW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Binhluans/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmluaGx1YW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Binhluans/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmluaGx1YW5zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Binhluans/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmluaGx1YW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Binhluans/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmluaGx1YW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Congthucnguyenlieux/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZ3RodWNuZ3V5ZW5saWV1eFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Congthucnguyenlieux/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZ3RodWNuZ3V5ZW5saWV1eFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Congthucnguyenlieux/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZ3RodWNuZ3V5ZW5saWV1eFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Congthucnguyenlieux/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZ3RodWNuZ3V5ZW5saWV1eFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Congthucnguyenlieux/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZ3RodWNuZ3V5ZW5saWV1eFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Loaimons/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haW1vbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Loaimons/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haW1vbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Loaimons/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haW1vbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Loaimons/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haW1vbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Loaimons/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haW1vbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Mons/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Mons/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Mons/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Mons/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Mons/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Nguoidungsaves/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lkdW5nc2F2ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Nguoidungsaves/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lkdW5nc2F2ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Nguoidungsaves/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lkdW5nc2F2ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Nguoidungsaves/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lkdW5nc2F2ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Nguoidungsaves/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lkdW5nc2F2ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Nguoidungs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lkdW5nc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Nguoidungs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lkdW5nc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Nguoidungs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lkdW5nc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Nguoidungs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lkdW5nc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Nguoidungs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lkdW5nc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Nguyenlieux/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1eWVubGlldXhcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Nguyenlieux/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1eWVubGlldXhcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Nguyenlieux/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1eWVubGlldXhcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Nguyenlieux/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1eWVubGlldXhcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Nguyenlieux/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1eWVubGlldXhcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Thongbaos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhvbmdiYW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Thongbaos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhvbmdiYW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Thongbaos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhvbmdiYW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Thongbaos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhvbmdiYW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Thongbaos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhvbmdiYW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Hoc/CSHARP/DEMO1/APIWithWeb/APIWithWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2wqoqd5hhe

@@ -1,0 +1,39 @@
+﻿@model APIWithWeb.Models.Nguyenlieu
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Nguyenlieu</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Manguyenlieu" />
+            <div class="form-group">
+                <label asp-for="Tennguyenlieu" class="control-label"></label>
+                <input asp-for="Tennguyenlieu" class="form-control" />
+                <span asp-validation-for="Tennguyenlieu" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Anhnguyenlieu" class="control-label"></label>
+                <input asp-for="Anhnguyenlieu" class="form-control" />
+                <span asp-validation-for="Anhnguyenlieu" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

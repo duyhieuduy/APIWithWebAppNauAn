@@ -1,0 +1,47 @@
+﻿@model IEnumerable<APIWithWeb.Models.Mon>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Tenmon)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Congthuclam)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaloaiNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tenmon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Congthuclam)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaloaiNavigation.Maloai)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Mamon">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Mamon">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Mamon">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
